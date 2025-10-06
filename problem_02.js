@@ -13,6 +13,7 @@
 // Input: 12 → Output: Positive
 
 
+// sloving
 let number = 12;
 
 if(number > 0 ){

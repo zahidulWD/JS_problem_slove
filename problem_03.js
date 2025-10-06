@@ -7,7 +7,7 @@
 
 // Input: 10 20 → Output: 20
 
-
+// slove
 let num1 = 10;
 let num2 = 50;
 
