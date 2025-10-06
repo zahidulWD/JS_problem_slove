@@ -30,3 +30,5 @@ if(oparator === "+"){
 }else{
     console.log("invalid oparator");
 }
+
+// output: 50
