@@ -9,6 +9,7 @@
 // Input: 10 → Output: Even
 
 
+// slove
 let number = 10 ;
 
 if(number % 2 === 0){
